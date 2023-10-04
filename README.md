@@ -191,7 +191,7 @@ Código em Python:
 def on_received_number(receivedNumber):
     global tiro
     tiro = game.create_sprite(receivedNumber, 0)
-    for índice in range(5):
+    for índice in range(4):
         basic.pause(100)
         tiro.change(LedSpriteProperty.Y, 1)
     if tiro.is_touching(nave):
@@ -207,7 +207,7 @@ input.on_button_pressed(Button.A, on_button_pressed_a)
 def on_button_pressed_ab():
     global tiro
     tiro = game.create_sprite(nave.get(LedSpriteProperty.X), 4)
-    for índice2 in range(5):
+    for índice2 in range(4):
         basic.pause(100)
         tiro.change(LedSpriteProperty.Y, -1)
     radio.send_number(tiro.get(LedSpriteProperty.X))
@@ -234,5 +234,6 @@ game.set_life(3)
 def on_forever():
     if game.is_game_over():
         radio.send_string("ganhou")
+    basic.pause(100)
 basic.forever(on_forever)
 ```
