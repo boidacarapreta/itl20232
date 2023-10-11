@@ -1,4 +1,4 @@
-/ JUMP
+// JUMP
 input.onButtonPressed(Button.A, function () {
   if (!(is_game_over)) {
     if (!(is_game_over)) {

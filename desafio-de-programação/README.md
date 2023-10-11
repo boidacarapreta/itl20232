@@ -17,3 +17,18 @@ Considerações importantes:
 
 - Os jogos enviados podem se referir a um mesmo jogo modelo, como [Flappy Bird](https://makecode.microbit.org/99604-32092-71181-64935). Na avaliação inicial dos professores, não há qualquer comparação entre equipes, apenas entre os jogos usados como modelo e o código enviado pela equipe.
 - É válido o uso de ferramentas de geração de código inicial. Porém, os jogos devem apresentar algum ineditismo. Portanto, **códigos obtidos de terceiros sem modificação significativa de lógica são sumariamente desclassificados**. Alterações ditas "cosméticas", como nomes de variáveis ou simples substituições de valores (binário por inteiro), não são consideradas modificações significativas, logo não conferem ineditismo ao código enviado.
+
+## Notas iniciais
+
+1. Equipe A: (provavelmente) baseado em [Car Racing Game](https://makecode.microbit.org/54303-25468-35863-66919). Nota 8.
+1. Equipe B, versão 1: desclassificada por ser o mesmo código do [flappy bird](https://makecode.microbit.org/99604-32092-71181-64935).
+1. Equipe B, versão 2: desclassificada por ser o mesmo código do [micro:bit Shooting Game](https://www.youtube.com/watch?v=1lQtx8XMUSQ).
+1. Equipe C, versão 1: desclassificada por ter o código equivalente ao [flappy bird](https://makecode.microbit.org/99604-32092-71181-64935).
+1. Equipe C, versão 2: desclassificada por ter o código equivalente ao [flappy bird](https://makecode.microbit.org/99604-32092-71181-64935).
+1. Equipe D: não foi localizado qualquer código de referência. Nota 10.
+1. Equipe E: desclassificada por ter o código equivalente ao [flappy bird](https://makecode.microbit.org/99604-32092-71181-64935).
+1. Equipe F: desclassificada por ter o mesmo código do [Magic 8 ball](https://microbit.org/pt-br/projects/make-it-code-it/magic-8ball/).
+1. Equipe G: não foi localizado qualquer código de referência. Nota 6.
+1. Equipe H: (provavelmente) baseado em [Dinosaur game](https://makecode.microbit.org/05842-74975-33922-67272). Nota 10.
+1. Equipe I: inspirado nos jogos de adivinhação de número. Sem código específico de referência. Nota 6.
+1. Equipe J: não foi localizado qualquer código de referência. Nota 6.
