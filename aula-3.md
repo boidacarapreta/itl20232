@@ -7,19 +7,19 @@ Definir o controle remoto dos projetos das equipes na feira de ciências.
 Nesse cenário, todos os Micro:bits podem enviar e receber comandos.
 
 ```mermaid
-mindmap
-  root((central))
-    Equipe-01
-    Equipe-02
-    Equipe-03
-    Equipe-04
-    Equipe-05
-    Equipe-06
-    Equipe-07
-    Equipe-08
-    Equipe-09
-    Equipe-10
-    Equipe-11
+flowchart TD
+  root((Central))
+  root --- Equipe-01
+  root --- Equipe-02
+  root --- Equipe-03
+  root --- Equipe-04
+  root --- Equipe-05
+  root --- Equipe-06
+  root --- Equipe-07
+  root --- Equipe-08
+  root --- Equipe-09
+  root --- Equipe-10
+  root --- Equipe-11
 ```
 
 Código em Python:
